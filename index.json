@@ -1,0 +1,11 @@
+{
+  "org": "milvus-io",
+  "repo": "pymilvus",
+  "versions": [
+    {
+      "commit": "58589c040969bee94d3569e720ad91243ea06e57",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:04:10.018658+00:00"
+    }
+  ]
+}
